@@ -1,4 +1,4 @@
-# vario
+# <img src="https://raw.githubusercontent.com/WasabiThumb/vario/refs/heads/master/doc/icon.png" style="height: 1em;" alt=""> vario
 Java 8 library for reading/writing variable-length primitives (VarInt, VarUInt, VarFloat, VarDouble)
 
 ## Quick Start
